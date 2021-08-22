@@ -1,0 +1,1 @@
+Hello! This is a text that i read in the file. i have to be on the same folder/directory as the exe file. Thanks!
